@@ -3,4 +3,4 @@ Circuital implementation of a Quantum Random Walk on a Johnson graph J(n,k) usin
 
 The oracles used for the search problem are relative to the collision-finding subprocedure of the Finiasz-Sendrier ISD attack.
 
-This is work is based on the Master thesis titled "Design of a Quantum Circuit for Quantum Random Walks on Johnson graphs, Solving the ISD problem for code-based Post-quantum Cryptosystems" by Matteo Lodi and Giacomo Lancellotti, Politecnico di Milano.
+This is work is based on the Master thesis titled "Design of a Quantum Circuit for Quantum Random Walks on Johnson graphs, Solving the ISD problem for code-based Post-quantum Cryptosystems" by Giacomo Lancellotti and Matteo Lodi, Politecnico di Milano.
