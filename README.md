@@ -1,5 +1,5 @@
 # Quantum Random Walk on a Johnson graph
-Circuital implementation of a Quantum Random Walk on a Johnson graph J(n,k) using qiskit. More specifically, the solution we have designed is based on Lackadaisical Quantum Walks, by Thomas Wong(http://www.thomaswong.net/). Parts of the code are still relative to the J(4,2) example, it's still a WIP.
+Circuital implementation of a Quantum Random Walk on a Johnson graph J(n,k) using qiskit. More specifically, the solution we have designed is based on Lackadaisical Quantum Walks, by Thomas Wong(http://www.thomaswong.net/). Parts of the code are still relative to the J(4,2) example, a full parametrization is still a WIP.
 
 The oracles used for the search problem are relative to the collision-finding subprocedure of the Finiasz-Sendrier ISD attack.
 
